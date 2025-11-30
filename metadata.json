@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Live Terminal",
+  "description": "A retro-styled command prompt interface for real-time, two-way voice conversations with Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
